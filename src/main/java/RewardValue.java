@@ -1,4 +1,4 @@
-class RewardValue {
+public class RewardValue {
     private double cashValue;
     private int milesValue;
     public static final double conversionRate = 0.0035;
